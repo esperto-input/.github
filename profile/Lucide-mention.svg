@@ -1,0 +1,11 @@
+<svg width="16" height="16" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circleCrop" clipPathUnits="objectBoundingBox">
+      <circle cx="0.5" cy="0.5" r="0.5" />
+    </clipPath>
+  </defs>
+
+  <image
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAAAAAByaaZbAAAFEElEQVR4nISU21MTdxvHn93sbjYJJJDAxnAQEFAQEN9wEvHw6vv6oq+tjs7YTuuVOnrTv6B3vehdrzrTjnamdjpjPcxoLa3OWGs9VEBEUSESAYMDiUkIScg5u+zx10mIlhCDz83u89v9/J7n+/098yMQ5A+RXHpygyBUNmQSlD8kz9Iz1MchZfyH0XSCrVYBxJiOhsmZoiY9AIzEeyiA1QE3p5iDmnL+D+O/tADB+9bqVVtCiLUju4wQ8g4PplLlGkJ4/u05H6cJPyx/CQAWvsoNoAyh/C25GFoUaTzgnWlXWQCksAFz3d3cng+I++jKpbcLXc83rqVBGvMqTHMhvE80gMNhdRk2zE00mSU83X5eDSjiCAFARQzFdT52tzngjKbX81Tg7s8XGsPxwn3q8aluD+oEcFdAfkC8Ed5dkTLQ29eLBSNqUzMAwnIASZUx2Xdmf8vrP9d7Zd0H1LmjwusG26Z/NiPe+HIrQWIStrUGQLr22dM+uamLw/n5apIky6bXQA6wcPZYKQAkf9rUDb5a7wviQBX8iIIfgwKg12e7kYrwV9GlWVCuTKL+qc8jie8j0csz4ll0buW0pLtGV0/pHiTkUHxIsg5KHMdcjDEhzHsdQMRWGpIWfY/s4W42VPkW40bSQ6rFlzZ987ip3IZ63RVtOQeEkOe0jBArSCySkmjuonBWkVHg2ytIkAPfDLvf0dLIYRw8dFJU21WU4jeTXRdwMB4+ADg+WctNrSiQcokvAHhR+ldVq7NpuGXgBDS9uBL1GIhQkgnsYU0yljU+qUSXAGiFtjpsi4i8rWqAfdq2E6TKsrF8Z6tHuY1yRD+RO9/md9eXA8DNDZctXCOHuh+RLCFsK8CzK6wbUuQ5AFBAgZonCBQQHvQePFlrNn3h3oa1tQyeYVfYeofavEBPd/mK3TVE322GOYkj1czEjeaiBt5vaRNmR+m9VBYAl6KHOLIspofoeXMno47p4fmvoSObrsbM1rVEZMFVSK0ryALAPxCtY1lVUvmveWndYf9w9l5v6XMjSb96Vavq8JjoLABg0a8p4Ik3+wB3qd3WRai+3FGzFc6b54/KT9uxbGBl2MeO+G5VVdxpkHag02NNp4DSrA4AwEt2vN4/uz1prIzZKiVuy1tb84WJaZwnA18rGpKp6E+0w3srJKdMlUOR6kf8gTl74KPMRUWsUkETNvAW9av9zF3RoHeVqbIq8E5a7dRJpSXUMsITMhZfD0frJYbvGSjsxpZrUEnsqBNVrZkJLwMYgdWWMduxjkmjYz65kKMh/Ph/kBgp1JqYNyvP1lgkm06ZlmkDYVRXrHSpmLHbXdUEFbyfyKxQAriDlbZt/ykK+n8T3uVSUoNDgqMm6EZ1Kp0pIZwah8ZFN69L/nKwKK+tKOyz/Tt9e4mPrSMl5sH6gNPC19XnBVKlLrZ04ABBhylqVUlAiOxkB/4OQBHVmbfQNd3eAnimDVi16dylM+VqQNMTcdgpFelTeyW+SxwvGxCaLelP0YnOJX+Wn/TiPUPPIjb2tJEy0KRh7fHff/7/Qmlm4LV45g5cDjgiejnhUh8LsXEBdJNEqVmiauYL099IJcDkAEXmylufSGVFZQAg9AcIWprb9TpWByAGFxE+y+RoECY45C/uUWVSWeH5uYfyrvXgu+2six4qyRUN8Ru6PVSWbcNcDzm6aGX7zdrmnJYAwPlp9v/QBcArGpepO+oSJUFLwt8BAAD//2DBsQJs+zATAAAAAElFTkSuQmCC"
+    width="100%" height="100%" preserveAspectRatio="xMidYMid slice" clip-path="url(#circleCrop)" />
+</svg>
