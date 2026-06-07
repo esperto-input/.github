@@ -1,0 +1,10 @@
+<svg width="16" height="16" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circleCrop" clipPathUnits="objectBoundingBox">
+      <circle cx="0.5" cy="0.5" r="0.5" />
+    </clipPath>
+  </defs>
+
+  <image href="https://avatars.githubusercontent.com/u/31775749?v=4&amp;size=48" width="100%" height="100%"
+    preserveAspectRatio="xMidYMid slice" clip-path="url(#circleCrop)" />
+</svg>
